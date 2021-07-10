@@ -47,7 +47,7 @@ go标准库学习
 - database	    	
     - sql	            sql 包提供了通用的SQL（或类SQL）数据库接口.
     - driver            driver 包定义了应被数据库驱动实现的接口，这些接口会被sql包使用.
-encoding	        encoding包定义了供其它包使用的可以将数据在字节水平和文本表示之间转换的接口.
+- encoding	        encoding包定义了供其它包使用的可以将数据在字节水平和文本表示之间转换的接口.
     - ascii85	        ascii85 包是对 ascii85 的数据编码的实现.
     - asn1	        	asn1包实现了DER编码的ASN.1数据结构的解析，参见ITU-T Rec X.690.
     - base32	        base32包实现了RFC 4648规定的base32编码.
